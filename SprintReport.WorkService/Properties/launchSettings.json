@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "SprintReport.WorkService": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
